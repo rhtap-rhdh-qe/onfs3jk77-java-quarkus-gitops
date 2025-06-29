@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: onfs3jk77-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/onfs3jk77-java-quarkus-gitops
